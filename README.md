@@ -1,4 +1,4 @@
-# Gotcha-react
+# Gotcha-project
 
 ### 2. Gotcha-React version
 
