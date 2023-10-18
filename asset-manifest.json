@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gotcha-react/static/css/main.4d4b4ec8.css",
-    "main.js": "/Gotcha-react/static/js/main.2ca52bb2.js",
+    "main.js": "/Gotcha-react/static/js/main.90ce4ecf.js",
     "static/media/my_bag.png": "/Gotcha-react/static/media/my_bag.fb2e210311fd898c159e.png",
     "static/media/black_heart.png": "/Gotcha-react/static/media/black_heart.a0dba28bcc8108ab53b2.png",
     "static/media/chk_bg.png": "/Gotcha-react/static/media/chk_bg.2d5424aa51613eea3d90.png",
@@ -11,10 +11,10 @@
     "static/media/machine.png": "/Gotcha-react/static/media/machine.7a76ff07ccd404cd3869.png",
     "index.html": "/Gotcha-react/index.html",
     "main.4d4b4ec8.css.map": "/Gotcha-react/static/css/main.4d4b4ec8.css.map",
-    "main.2ca52bb2.js.map": "/Gotcha-react/static/js/main.2ca52bb2.js.map"
+    "main.90ce4ecf.js.map": "/Gotcha-react/static/js/main.90ce4ecf.js.map"
   },
   "entrypoints": [
     "static/css/main.4d4b4ec8.css",
-    "static/js/main.2ca52bb2.js"
+    "static/js/main.90ce4ecf.js"
   ]
 }
