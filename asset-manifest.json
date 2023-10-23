@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Gotcha-react/static/css/main.4d4b4ec8.css",
-    "main.js": "/Gotcha-react/static/js/main.32d6682b.js",
-    "static/media/my_bag.png": "/Gotcha-react/static/media/my_bag.fb2e210311fd898c159e.png",
-    "static/media/black_heart.png": "/Gotcha-react/static/media/black_heart.a0dba28bcc8108ab53b2.png",
-    "static/media/chk_bg.png": "/Gotcha-react/static/media/chk_bg.2d5424aa51613eea3d90.png",
-    "static/media/quiz_icon.png": "/Gotcha-react/static/media/quiz_icon.09dfb52b9d70e66343a4.png",
-    "static/media/q_icon.png": "/Gotcha-react/static/media/q_icon.f388c8713d24ff328bcd.png",
-    "static/media/reset_arrow.png": "/Gotcha-react/static/media/reset_arrow.a949e33adc980f18e734.png",
-    "static/media/machine.png": "/Gotcha-react/static/media/machine.7a76ff07ccd404cd3869.png",
-    "index.html": "/Gotcha-react/index.html",
-    "main.4d4b4ec8.css.map": "/Gotcha-react/static/css/main.4d4b4ec8.css.map",
-    "main.32d6682b.js.map": "/Gotcha-react/static/js/main.32d6682b.js.map"
+    "main.css": "/Gotcha-react/intro/static/css/main.800e2986.css",
+    "main.js": "/Gotcha-react/intro/static/js/main.75e82aaf.js",
+    "static/media/my_bag.png": "/Gotcha-react/intro/static/media/my_bag.fb2e210311fd898c159e.png",
+    "static/media/black_heart.png": "/Gotcha-react/intro/static/media/black_heart.a0dba28bcc8108ab53b2.png",
+    "static/media/chk_bg.png": "/Gotcha-react/intro/static/media/chk_bg.2d5424aa51613eea3d90.png",
+    "static/media/quiz_icon.png": "/Gotcha-react/intro/static/media/quiz_icon.09dfb52b9d70e66343a4.png",
+    "static/media/q_icon.png": "/Gotcha-react/intro/static/media/q_icon.f388c8713d24ff328bcd.png",
+    "static/media/reset_arrow.png": "/Gotcha-react/intro/static/media/reset_arrow.a949e33adc980f18e734.png",
+    "static/media/machine.png": "/Gotcha-react/intro/static/media/machine.7a76ff07ccd404cd3869.png",
+    "index.html": "/Gotcha-react/intro/index.html",
+    "main.800e2986.css.map": "/Gotcha-react/intro/static/css/main.800e2986.css.map",
+    "main.75e82aaf.js.map": "/Gotcha-react/intro/static/js/main.75e82aaf.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d4b4ec8.css",
-    "static/js/main.32d6682b.js"
+    "static/css/main.800e2986.css",
+    "static/js/main.75e82aaf.js"
   ]
 }
