@@ -34,7 +34,7 @@
 
 <br>
 
-### Github Page : 추후 업데이트 예정.
+### Github Page : https://1gyou1.github.io/Gotcha-react
 
 <br>
 
